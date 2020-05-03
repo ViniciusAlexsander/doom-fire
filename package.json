@@ -1,0 +1,16 @@
+{
+  "name": "doom-fire",
+  "version": "1.0.0",
+  "description": "Fire effect created with JavaScript",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusAlexsander/doom-fire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusAlexsander/doom-fire/issues"
+  },
+  "homepage": "https://github.com/ViniciusAlexsander/doom-fire#readme"
+}
