@@ -11,20 +11,20 @@ Este projeto faz uma simulação de efeito de fogo baseado no jogo doom, feito c
  
  1. Baixar e instalar o NodeJs
  2. Clonar o repositório 
-    ```sh
+   ```sh
     https://github.com/ViniciusAlexsander/doom-fire.git
-    ```
+   ```
 Instalar dependências:
 Com NPM: 
-```sh
-npm install
-npm start 
-```   
+  ```sh
+   npm install
+   npm start 
+  ```   
 Com Yarn: 
-```sh
-yarn
-yarn start 
-``` 
+  ```sh
+   yarn
+   yarn start 
+  ``` 
  
 ## Histórico de lançamentos
 * 0.1.0
@@ -63,6 +63,4 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 
 ## Créditos
 
-* Gorjeta para qualquer pessoa cujo código foi usado
-* Inspiração
-* etc
+* Agradecimentos ao [Felipe Deschamps](https://github.com/filipedeschamps) pelo video ensinando a fazer esse projeto.
